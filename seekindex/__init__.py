@@ -1,1 +1,1 @@
-"""字节索引与精确 seek"""
+from .core import *  # noqa: F401,F403
