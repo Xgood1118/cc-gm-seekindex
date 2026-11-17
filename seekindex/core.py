@@ -27,3 +27,8 @@ def nearest_key(index, t_ms):
     """找不晚于该时刻的键"""
     raise NotImplementedError("nearest_key 尚未实现")
 
+
+def load_chunks(path):
+    """读入与落盘辅助"""
+    raise NotImplementedError("load_chunks 尚未实现")
+
