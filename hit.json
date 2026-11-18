@@ -1,4 +1,6 @@
 {
+  "backoff_ms": 30,
+  "boundary": null,
   "delta_ms": 30,
   "end_ms": 2700,
   "index_entries": 3,
@@ -6,5 +8,8 @@
   "ok": true,
   "size": 900,
   "start_ms": 1800,
-  "t_ms": 1830
+  "t_ms": 1830,
+  "tiered_block": 1800,
+  "tiered_entries": 4,
+  "tiered_levels": 2
 }
